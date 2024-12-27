@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @david-wq-han
-- 👀 I’m interested in MCU and embedded SW. 
-- 🌱 I’m currently learning technology about SmartHome application.
+- 👋 Hello, I’m David Han
+- 👀 I’m working in Industrial & IOT industry， especially interested in connectivity application. 
+- 🌱 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
